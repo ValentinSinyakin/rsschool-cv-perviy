@@ -1,1 +1,0 @@
-https://github.com/ValentinSinyakin/rsschool-cv.git
