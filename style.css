@@ -1,0 +1,44 @@
+
+.container {
+  text-align: center;
+  border: 5px solid #2196F3;
+  margin: 25px;
+  background-color: #2196f32e;
+}
+
+.full-name {
+  color: #9400D3;
+  font-size: 60px;
+  font-style: oblique;
+}
+
+
+.phone-number {
+  font-size: 40px;
+  animation: color-change 3s infinite;
+}
+
+@keyframes color-change {
+  0% {
+    color: blue;
+  }
+
+  50% {
+    color: red;
+  }
+
+  100% {
+    color: blue;
+  }
+}
+.working-experience {
+  font-size: 35px;
+}
+.example{
+  color: #00FF00;
+  font-size: 55px;
+  font-style: oblique;
+}
+.motivation {
+  font-size: 30px;
+}
